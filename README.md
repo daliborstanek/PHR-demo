@@ -8,7 +8,7 @@ Sázení a péče: Hráč připravuje půdu, sází semena, zalévá je a skíz�
 
 Prodej a trh: Sklizené plody i přebytečná semena lze prodávat. Hráč vyhodnocuje, co se mu vyplatí zasadit a co rovnou prodat.
 
-Vylepšování (Upgrades): Možnost dokupovat větší plochu pole, lepší konve/nářadí (rychlejší práca) nebo automatické zavlažování.
+Vylepšování: Možnost dokupovat větší plochu pole, lepší konve/nářadí (rychlejší práca) nebo automatické zavlažování.
 
 Tier systém semen: Semena jsou rozdělena do několika úrovní podle vzácnosti a ceny:
 
